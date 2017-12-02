@@ -5,6 +5,6 @@ These are my solutions in **Javascript**.
 
 ## Challenges
 * Day 1: [Inverse Captcha](http://adventofcode.com/2017/day/1) - day1.js
-* Day 2
+* Day 2: [Corruption Checksum](http://adventofcode.com/2017/day/2) - day2.js
 * Day 3
 * Day 4
